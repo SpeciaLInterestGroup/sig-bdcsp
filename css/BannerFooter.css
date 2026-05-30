@@ -1,0 +1,41 @@
+/* ============================================================
+ * CSS file IEEE SIG on Big Data for Cyber Security and Privacy
+ * ------------------------------------------------------------
+ * Author: CI reserach group @ Northumbria University
+ * Date  : 01 05 2016
+ * ============================================================ */
+
+/* ----- HEADER STYLE ----- */
+.site-title a, .site-title a:hover, .site-title a:active, .site-title a:visited 
+{
+  color: #fff;
+  text-decoration: none;
+}
+
+.banner
+{
+  background-color: #0083B3;
+}
+
+/* ----- THE WEDGE (BOTTOM RIGHT) ----- */
+.the-wedge-bottom 
+{
+  border-color: transparent transparent #0083B3 transparent;
+}
+
+/* ----- FOOTER STYLE ----- */
+.footer
+{
+  background-color: #0083B3;
+  color: #fff
+}
+
+.footer p a, footer ul li a
+{
+  color: #fff;
+}
+
+.footer p a, footer ul li a:hover
+{
+  color: #fff;
+}
